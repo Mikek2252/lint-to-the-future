@@ -1,5 +1,10 @@
 # Changelog
 
+
+
+
+
+
 ## Release (2024-09-30)
 
 lint-to-the-future 2.1.0 (minor)
